@@ -1,0 +1,21 @@
+Student_Service
+Message_Service
+RMI Client Started
+-------------------------
+Registry LookUp method -> Student Service
+1: Tharindu is in Bandarawela & the mobile is 0751441764
+2: Supun is in Diyathalawa & the mobile is 0767890045
+3: Pivithuru is in Colombo & the mobile is 0770001764
+-------------------------
+Registry LookUp method -> Message Service
+Hello RMI Client by Tharindu Chanaka ---->>
+-------------------------
+Initial Context method -> Student Service
+1: Tharindu is in Bandarawela & the mobile is 0751441764
+2: Supun is in Diyathalawa & the mobile is 0767890045
+3: Pivithuru is in Colombo & the mobile is 0770001764
+-------------------------
+Naming LookUp method -> Student Service
+1: Tharindu is in Bandarawela & the mobile is 0751441764
+2: Supun is in Diyathalawa & the mobile is 0767890045
+3: Pivithuru is in Colombo & the mobile is 0770001764
